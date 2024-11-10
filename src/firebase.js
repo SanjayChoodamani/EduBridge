@@ -13,12 +13,12 @@ import "react-toastify/dist/ReactToastify.css";
 export const googleProvider = new GoogleAuthProvider();
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBJIOj8LFomyO8XW6GyjyUIJu5IhA-xUpk",
-  authDomain: "edubridge-01.firebaseapp.com",
-  projectId: "edubridge-01",
-  storageBucket: "edubridge-01.firebasestorage.app",
-  messagingSenderId: "643220241252",
-  appId: "1:643220241252:web:f57a270a7882490cbf1871",
+  apiKey: "add_your_credentilas",
+  authDomain: "Add_your_credentials",
+  projectId: "Add_your_credentials1",
+  storageBucket: "Add_your_credentials",
+  messagingSenderId: "Add_your_credentials",
+  appId: "add_your_credetnials",
 };
 
 const app = initializeApp(firebaseConfig);
